@@ -1,6 +1,6 @@
 import SearchBar from "../Components/SearchBar/SearchBar";
 
-const clientId = '1a3117f5ecfe40bf909607c0fe27ee83';
+const clientId = '405fc5f7f1ec4b3e8e8a3470917e1a24';
 const redirectUri = 'https://spatulatom.github.io/jamming/';
 
 let accessToken;
