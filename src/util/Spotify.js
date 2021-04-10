@@ -1,7 +1,7 @@
 import SearchBar from "../Components/SearchBar/SearchBar";
 
 const clientId = '12502ea55cc04e768d1752a3fcd1e449';
-const redirectUri = 'http://woebegone-land.surge.sh';
+const redirectUri = 'https://spatulatom.github.io/jamming/';
 
 let accessToken;
 
