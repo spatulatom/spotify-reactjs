@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jamming/static/css/main.3d628762.chunk.css",
-    "main.js": "/jamming/static/js/main.a5aac1ca.chunk.js",
-    "main.js.map": "/jamming/static/js/main.a5aac1ca.chunk.js.map",
-    "runtime-main.js": "/jamming/static/js/runtime-main.6d782cb8.js",
-    "runtime-main.js.map": "/jamming/static/js/runtime-main.6d782cb8.js.map",
-    "static/js/2.9fa73ad9.chunk.js": "/jamming/static/js/2.9fa73ad9.chunk.js",
-    "static/js/2.9fa73ad9.chunk.js.map": "/jamming/static/js/2.9fa73ad9.chunk.js.map",
-    "index.html": "/jamming/index.html",
-    "precache-manifest.73a481eaeaa2944afcb77d6f1f1c3a6c.js": "/jamming/precache-manifest.73a481eaeaa2944afcb77d6f1f1c3a6c.js",
-    "service-worker.js": "/jamming/service-worker.js",
-    "static/css/main.3d628762.chunk.css.map": "/jamming/static/css/main.3d628762.chunk.css.map",
-    "static/js/2.9fa73ad9.chunk.js.LICENSE.txt": "/jamming/static/js/2.9fa73ad9.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/jamming/static/media/dj_mouse-wallpaper-mobile.0c9513a9.jpg"
+    "main.css": "/spotify/static/css/main.6df0b433.chunk.css",
+    "main.js": "/spotify/static/js/main.3e15b150.chunk.js",
+    "main.js.map": "/spotify/static/js/main.3e15b150.chunk.js.map",
+    "runtime-main.js": "/spotify/static/js/runtime-main.1c085f2f.js",
+    "runtime-main.js.map": "/spotify/static/js/runtime-main.1c085f2f.js.map",
+    "static/js/2.560c4126.chunk.js": "/spotify/static/js/2.560c4126.chunk.js",
+    "static/js/2.560c4126.chunk.js.map": "/spotify/static/js/2.560c4126.chunk.js.map",
+    "index.html": "/spotify/index.html",
+    "precache-manifest.57f3c3e7f2fb6cdf766cadb1a0cd3205.js": "/spotify/precache-manifest.57f3c3e7f2fb6cdf766cadb1a0cd3205.js",
+    "service-worker.js": "/spotify/service-worker.js",
+    "static/css/main.6df0b433.chunk.css.map": "/spotify/static/css/main.6df0b433.chunk.css.map",
+    "static/js/2.560c4126.chunk.js.LICENSE.txt": "/spotify/static/js/2.560c4126.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/spotify/static/media/dj_mouse-wallpaper-mobile.0c9513a9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d782cb8.js",
-    "static/js/2.9fa73ad9.chunk.js",
-    "static/css/main.3d628762.chunk.css",
-    "static/js/main.a5aac1ca.chunk.js"
+    "static/js/runtime-main.1c085f2f.js",
+    "static/js/2.560c4126.chunk.js",
+    "static/css/main.6df0b433.chunk.css",
+    "static/js/main.3e15b150.chunk.js"
   ]
 }
