@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jamming/static/css/main.3d628762.chunk.css",
+    "main.js": "/jamming/static/js/main.a5aac1ca.chunk.js",
+    "main.js.map": "/jamming/static/js/main.a5aac1ca.chunk.js.map",
+    "runtime-main.js": "/jamming/static/js/runtime-main.6d782cb8.js",
+    "runtime-main.js.map": "/jamming/static/js/runtime-main.6d782cb8.js.map",
+    "static/js/2.9fa73ad9.chunk.js": "/jamming/static/js/2.9fa73ad9.chunk.js",
+    "static/js/2.9fa73ad9.chunk.js.map": "/jamming/static/js/2.9fa73ad9.chunk.js.map",
+    "index.html": "/jamming/index.html",
+    "precache-manifest.73a481eaeaa2944afcb77d6f1f1c3a6c.js": "/jamming/precache-manifest.73a481eaeaa2944afcb77d6f1f1c3a6c.js",
+    "service-worker.js": "/jamming/service-worker.js",
+    "static/css/main.3d628762.chunk.css.map": "/jamming/static/css/main.3d628762.chunk.css.map",
+    "static/js/2.9fa73ad9.chunk.js.LICENSE.txt": "/jamming/static/js/2.9fa73ad9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jamming/static/media/dj_mouse-wallpaper-mobile.0c9513a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d782cb8.js",
+    "static/js/2.9fa73ad9.chunk.js",
+    "static/css/main.3d628762.chunk.css",
+    "static/js/main.a5aac1ca.chunk.js"
+  ]
+}
