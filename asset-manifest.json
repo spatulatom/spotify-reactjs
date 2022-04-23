@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/spotify/static/css/main.604098a9.chunk.css",
-    "main.js": "/spotify/static/js/main.49511558.chunk.js",
-    "main.js.map": "/spotify/static/js/main.49511558.chunk.js.map",
-    "runtime-main.js": "/spotify/static/js/runtime-main.1c085f2f.js",
-    "runtime-main.js.map": "/spotify/static/js/runtime-main.1c085f2f.js.map",
-    "static/js/2.560c4126.chunk.js": "/spotify/static/js/2.560c4126.chunk.js",
-    "static/js/2.560c4126.chunk.js.map": "/spotify/static/js/2.560c4126.chunk.js.map",
-    "index.html": "/spotify/index.html",
-    "precache-manifest.cdc7623c0fe8a4e635cedf3ebc6b8c3c.js": "/spotify/precache-manifest.cdc7623c0fe8a4e635cedf3ebc6b8c3c.js",
-    "service-worker.js": "/spotify/service-worker.js",
-    "static/css/main.604098a9.chunk.css.map": "/spotify/static/css/main.604098a9.chunk.css.map",
-    "static/js/2.560c4126.chunk.js.LICENSE.txt": "/spotify/static/js/2.560c4126.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/spotify/static/media/dj_mouse-wallpaper-mobile.0c9513a9.jpg"
+    "main.css": "/spotify-reactjs/static/css/main.2bb92009.chunk.css",
+    "main.js": "/spotify-reactjs/static/js/main.f7da411e.chunk.js",
+    "main.js.map": "/spotify-reactjs/static/js/main.f7da411e.chunk.js.map",
+    "runtime-main.js": "/spotify-reactjs/static/js/runtime-main.c983a74e.js",
+    "runtime-main.js.map": "/spotify-reactjs/static/js/runtime-main.c983a74e.js.map",
+    "static/js/2.560c4126.chunk.js": "/spotify-reactjs/static/js/2.560c4126.chunk.js",
+    "static/js/2.560c4126.chunk.js.map": "/spotify-reactjs/static/js/2.560c4126.chunk.js.map",
+    "index.html": "/spotify-reactjs/index.html",
+    "precache-manifest.5e649d8fa213b3b0f2d2924ba74b6ed1.js": "/spotify-reactjs/precache-manifest.5e649d8fa213b3b0f2d2924ba74b6ed1.js",
+    "service-worker.js": "/spotify-reactjs/service-worker.js",
+    "static/css/main.2bb92009.chunk.css.map": "/spotify-reactjs/static/css/main.2bb92009.chunk.css.map",
+    "static/js/2.560c4126.chunk.js.LICENSE.txt": "/spotify-reactjs/static/js/2.560c4126.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/spotify-reactjs/static/media/dj_mouse-wallpaper-mobile.0c9513a9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c085f2f.js",
+    "static/js/runtime-main.c983a74e.js",
     "static/js/2.560c4126.chunk.js",
-    "static/css/main.604098a9.chunk.css",
-    "static/js/main.49511558.chunk.js"
+    "static/css/main.2bb92009.chunk.css",
+    "static/js/main.f7da411e.chunk.js"
   ]
 }
