@@ -21,7 +21,7 @@ handleNameChange(event){
             <TrackList tracks={this.props.playlistTracks}
             onRemove= {this.props.onRemove}
             isRemoval={true}/> 
-            <button className="Playlist-save" onClick={this.props.onSave}>Zachowaj na swoim koncie na Spotyfaju</button>
+            <button className="Playlist-save" onClick={this.props.onSave}>Zachowaj na Spotyfaju</button>
           </div>);
     
 }
